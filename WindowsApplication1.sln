@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "My Calculator", "WindowsApplication1\My Calculator.vbproj", "{BF653E9C-87D7-401D-BFAF-AF624C1A8084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF653E9C-87D7-401D-BFAF-AF624C1A8084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF653E9C-87D7-401D-BFAF-AF624C1A8084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF653E9C-87D7-401D-BFAF-AF624C1A8084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF653E9C-87D7-401D-BFAF-AF624C1A8084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
